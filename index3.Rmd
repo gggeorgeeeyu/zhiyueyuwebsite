@@ -1,0 +1,29 @@
+---
+title: "Zhiyue Yu"
+image: "zhiyue.jpg"
+links:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/zhiyue-george-yu-a40226186/
+  - label: GitHub
+    url: "https://github.com/gggeorgeeeyu"
+  - label: Email
+    url: "gggeorgeee.yu@mail.utoronto.ca"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Zhiyue is a detail-oriented and motivated third-year student with demonstrated skills in data analysis and visualization, and project management. Strong prioritization skills, interpersonal skills and problem-solving skills. An enthusiastic and proactive leader and team player in a dynamic business environment.
+
+## Education
+
+**University of Toronto** | Toronto, ON, CA
+
+Bachelors of Science in Mathematics & Statistics Double Major | September 2019 - May 2023
+
+## Experience
+
+**VCycene** | Co-founder/CMO | July 2021 - Present
+
+**MainlineKiwi** | Founder | March 2021 – May 2021
